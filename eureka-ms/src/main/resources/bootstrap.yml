@@ -1,0 +1,7 @@
+#Cuando las configuraciones están en otro sitio, el archivo bootstrap es el primero en ser leído al arrancar la app
+#luego de la lectura de boostrap.yml, se leen las configuracion de propiedades (application.yml o application.properties)
+#y se utilizan dichas configuraciones en la aplicación
+
+spring:
+    application:
+        name: eureka-server

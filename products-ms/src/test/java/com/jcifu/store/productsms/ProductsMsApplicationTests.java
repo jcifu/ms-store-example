@@ -1,10 +1,10 @@
-package com.jcifu.store.shoppingcartms;
+package com.jcifu.store.productsms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShoppingCartMsApplicationTests {
+class ProductsMsApplicationTests {
 
 	@Test
 	void contextLoads() {
